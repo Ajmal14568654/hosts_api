@@ -1,17 +1,32 @@
-{
-  "products": [
-    {
-      "id": 1,
-      "name": "Product 1",
-      "price": 20.99,
-      "availability": "In Stock"
-    },
-    {
-      "id": 2,
-      "name": "Product 2",
-      "price": 45.50,
-      "availability": "Out of Stock"
-    }
-  ]
-}
-
+[
+  {
+    "product_id": "1",
+    "product_name": "Product One",
+    "product_description": "This is product one description.",
+    "availability": "In Stock"
+  },
+  {
+    "product_id": "2",
+    "product_name": "Product Two",
+    "product_description": "This is product two description.",
+    "availability": "Out of Stock"
+  },
+  {
+    "product_id": "3",
+    "product_name": "Product Three",
+    "product_description": "This is product three description.",
+    "availability": "In Stock"
+  },
+  {
+    "product_id": "4",
+    "product_name": "Product Four",
+    "product_description": "This is product four description.",
+    "availability": "Limited Stock"
+  },
+  {
+    "product_id": "5",
+    "product_name": "Product Five",
+    "product_description": "This is product five description.",
+    "availability": "In Stock"
+  }
+]
