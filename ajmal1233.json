@@ -1,32 +1,35 @@
-[
-  {
-    "product_id": "1",
-    "product_name": "Product One",
-    "product_description": "This is product one description.",
-    "availability": "In Stock"
-  },
-  {
-    "product_id": "2",
-    "product_name": "Product Two",
-    "product_description": "This is product two description.",
-    "availability": "Out of Stock"
-  },
-  {
-    "product_id": "3",
-    "product_name": "Product Three",
-    "product_description": "This is product three description.",
-    "availability": "In Stock"
-  },
-  {
-    "product_id": "4",
-    "product_name": "Product Four",
-    "product_description": "This is product four description.",
-    "availability": "Limited Stock"
-  },
-  {
-    "product_id": "5",
-    "product_name": "Product Five",
-    "product_description": "This is product five description.",
-    "availability": "In Stock"
-  }
-]
+{
+  "products": [
+    {
+      "id": "001",
+      "name": "Product 1",
+      "description": "Description of Product 1",
+      "availability": "In Stock"
+    },
+    {
+      "id": "002",
+      "name": "Product 2",
+      "description": "Description of Product 2",
+      "availability": "Out of Stock"
+    },
+    {
+      "id": "003",
+      "name": "Product 3",
+      "description": "Description of Product 3",
+      "availability": "In Stock"
+    },
+    {
+      "id": "004",
+      "name": "Product 4",
+      "description": "Description of Product 4",
+      "availability": "In Stock"
+    },
+    {
+      "id": "005",
+      "name": "Product 5",
+      "description": "Description of Product 5",
+      "availability": "Out of Stock"
+    }
+  ]
+}
+
