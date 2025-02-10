@@ -29,6 +29,12 @@
       "name": "Product 5",
       "description": "Description of Product 5",
       "availability": "Out of Stock"
+    },
+    {
+      "id": "006",
+      "name": "Product 6",
+      "description": "Description of Product 6",
+      "availability": "In Stock"
     }
   ]
 }
