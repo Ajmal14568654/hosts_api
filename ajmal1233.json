@@ -6,7 +6,7 @@
       "description": "Description of Product 1",
       "availability": "In Stock",
       "price":"25.99",
-      "original_price": 699
+      "original_price": "50"
     },
     {
       "id": "002",
@@ -14,7 +14,7 @@
       "description": "Description of Product 2",
       "availability": "Out of Stock",
       "price":"35.99",
-      "original_price": 699
+      "original_price": "50"
     },
     {
       "id": "003",
@@ -22,7 +22,7 @@
       "description": "Description of Product 3",
       "availability": "In Stock",
       "price":"45.99",
-      "original_price": 699
+      "original_price": "50"
     },
     {
       "id": "004",
@@ -30,7 +30,7 @@
       "description": "Description of Product 4",
       "availability": "In Stock",
       "price":"55.99",
-      "original_price": 699
+      "original_price": "50"
     },
     {
       "id": "005",
@@ -38,7 +38,7 @@
       "description": "Description of Product 5",
       "availability": "Out of Stock",
       "price":"65.99",
-      "original_price": 699
+      "original_price": "80"
     },
      {
       "id": "006",
@@ -46,7 +46,7 @@
       "description": "Description of Product 6",
       "availability": "In Stock",
       "price":"75.99",
-       "original_price": 699
+       "original_price": "90"
     }
   ]
 }
